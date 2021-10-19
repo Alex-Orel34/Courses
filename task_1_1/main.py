@@ -1,0 +1,6 @@
+value_1, value_2 = input().split()
+value_1 = int(value_1)
+value_2 = int(value_2)
+print(value_1 + value_2)
+print(value_1 * value_2)
+print(value_1 - value_2)
